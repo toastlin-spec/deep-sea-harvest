@@ -2,6 +2,8 @@
 
 從上方俯視海面的街機風釣魚遊戲。拋竿、控制張力搏魚，用釣到的金幣升級裝備、購買道具，慢慢挑戰深海的 BOSS 魚。
 
+**線上試玩：https://toastlin-spec.github.io/deep-sea-harvest/**
+
 整個遊戲就是一個 HTML 檔，不需要安裝或建置：直接用瀏覽器打開 `index.html` 就能玩。進度會存在瀏覽器的 localStorage。
 
 ## 操作
